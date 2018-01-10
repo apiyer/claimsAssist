@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "insuranceco-executor",
+    "name": "insuranceco",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "xkr92yurg0"
+  }
+}
